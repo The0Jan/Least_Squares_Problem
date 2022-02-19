@@ -18,7 +18,7 @@ For the following measurement data (samples):
 |  5| –4,8987 |
 
 Using the method of least squares, determine the polynomial function y=f(x) that best approximates the data (please test polynomials of different orders).   In your report, please present the obtained function against the data in the figure.   To solve the least squares problem, please use: \
-a) the system of normal equations, \ 
+a) the system of normal equations\
 b) the system of linear equations with matrix R resulting from the QR decomposition of the system of equations.
 
 Notes:
